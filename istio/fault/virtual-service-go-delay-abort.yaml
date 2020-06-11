@@ -29,5 +29,5 @@ spec:
         percent: 100
         fixedDelay: 5s
       abort:
-        percent: 50
+        percentage: 50
         httpStatus: 500
