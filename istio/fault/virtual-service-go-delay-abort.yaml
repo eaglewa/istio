@@ -30,5 +30,5 @@ spec:
         fixedDelay: 5s
       abort:
         percentage:
-          value: 100
+          value: 50
         httpStatus: 500
